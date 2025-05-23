@@ -1,0 +1,14 @@
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: team-a
+  description: The infra business unit
+spec:
+  type: team
+  profile:
+    displayName: team-a
+    email: none@noemail.com
+    picture: https://example.com/groups/bu-infrastructure.jpeg
+  parent: ops
+  children: [backstage, other]
+  members: [ashu]
