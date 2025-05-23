@@ -7,8 +7,6 @@ spec:
   type: team
   profile:
     displayName: team-a
-    email: none@noemail.com
+    email: infrastructure@example.com
     picture: https://example.com/groups/bu-infrastructure.jpeg
-  parent: ops
-  children: [backstage, other]
   members: [ashu]
