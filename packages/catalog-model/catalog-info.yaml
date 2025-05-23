@@ -4,10 +4,10 @@ metadata:
   name: backstage-catalog-model
   title: '@backstage/catalog-model'
   description: Types and validators that help describe the model of a Backstage Catalog
-spec:
-  lifecycle: production
-  type: backstage-common-library
-  owner: maintainers
 metadata:
   annotations:
   backstage.io/techdocs-ref: dir:..
+spec:
+  lifecycle: production
+  type: backstage-common-library
+  owner: team-a
