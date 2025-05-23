@@ -8,3 +8,6 @@ spec:
   lifecycle: production
   type: backstage-common-library
   owner: maintainers
+metadata:
+  annotations:
+  backstage.io/techdocs-ref: dir:..
