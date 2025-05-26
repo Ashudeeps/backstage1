@@ -1,0 +1,9 @@
+site_name: 'Example Documentation'
+repo_url: github.com/Ashudeeps/backstage1/new/master/packages/catalog-model
+edit_uri: github.com/Ashudeeps/backstage1/new/master/packages/catalog-model/docs/index.md
+
+nav:
+  - Home: index.md
+
+plugins:
+  - techdocs-core
