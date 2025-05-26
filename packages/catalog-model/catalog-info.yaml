@@ -5,7 +5,7 @@ metadata:
   title: '@backstage/catalog-model'
   description: Types and validators that help describe the model of a Backstage Catalog
   annotations:
-  backstage.io/techdocs-ref: dir:..
+    backstage.io/techdocs-ref: dir:..
 spec:
   lifecycle: production
   type: backstage-common-library
