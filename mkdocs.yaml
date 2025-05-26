@@ -1,0 +1,9 @@
+site_name: 'Example Documentation'
+repo_url: https://github.com/Ashudeeps/backstage1
+edit_uri: https://github.com/Ashudeeps/backstage1/blob/master/docs/index.md
+
+nav:
+  - Home: index.md
+
+plugins:
+  - techdocs-core
