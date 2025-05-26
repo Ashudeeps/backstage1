@@ -1,9 +1,0 @@
-site_name: 'Example Documentation'
-repo_url: https://github.com/Ashudeeps/backstage1
-edit_uri: url to your index.md
-
-nav:
-  - Home: https://github.com/Ashudeeps/backstage1/blob/master/packages/catalog-model/docs/index.md
-
-plugins:
-  - techdocs-core
